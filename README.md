@@ -1,4 +1,4 @@
 TestProject
 ===========
 
-Just a test
+Just my test project, nothing to see here...
